@@ -12,7 +12,7 @@ are being progressively implemented into Internet of Things (IoT).
 </p>
 
 # Source
-Article: The SIMON and SPECK Families of Lightweight Block Ciphers, eprint.iacr.org, 2013
-Authors: Ray Beaulieu, Douglas Shors, Jason Smith, Stefan Treatman-Clark, Bryan Weeks, and Louis Wingers (NSA)
-Target: Hardware (SIMON) and software (SPECK) 
+* Article: The SIMON and SPECK Families of Lightweight Block Ciphers, eprint.iacr.org, 2013
+* Authors: Ray Beaulieu, Douglas Shors, Jason Smith, Stefan Treatman-Clark, Bryan Weeks, and Louis Wingers (NSA)
+* Target: Hardware (SIMON) and software (SPECK) 
 
